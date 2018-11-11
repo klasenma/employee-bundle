@@ -6,7 +6,7 @@
     <div class="employee">
       <h2><?php echo $employee['adress']." ".$employee['firstname']." ".$employee['lastname']; ?></h2>
       <h3><?php echo $employee['function']?></h3>
-      <div>  
+      <div class="details">  
         <img src="<?php echo \Contao\FilesModel::findByUuid($employee['singleSRC'])->path; ?>"/>
         <span class="contact"><?php echo "Tel.: ".$employee['phone']?><br>
                               <?php echo "E-Mail: ".$employee['email']; ?></span>
