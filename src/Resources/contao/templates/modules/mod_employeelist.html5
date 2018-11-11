@@ -9,7 +9,7 @@
       <img src="<?php echo \Contao\FilesModel::findByUuid($employee['singleSRC'])->path; ?>"/>
       <span class="contact"><?php echo "Tel.: ".$employee['phone']?><br>
                             <?php echo "E-Mail: ".$employee['email']; ?></span>
-      <div class="description"><?php $employee['description']; ?></div>
+      <div class="description"><?php echo $employee['description']; ?></div>
     </div>
   <?php endforeach; ?>
 
