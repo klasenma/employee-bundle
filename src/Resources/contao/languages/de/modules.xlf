@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+  <file datatype="php" original="src/Resources/contao/languages/de/modules.php" source-language="de">
+    <body>
+      <trans-unit id="MOD.employee.0">
+        <source>Mitarbeiter</source>
+      </trans-unit>
+      <trans-unit id="MOD.employee.1">
+        <source>Mitarbeiter verwalten</source>
+      </trans-unit>
+      <trans-unit id="FMD.employeelist">
+        <source>Mitarbeiterübersicht</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,159 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="src/Resources/contao/languages/de/tl_employee.php" source-language="de">
+    <body>
+      <trans-unit id="tl_employee.title.0">
+        <source>ID</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.title.1">
+        <source>Bitte geben Sie eine eindeutige Mitarbeiter-ID ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.email.0">
+        <source>E-Mailadresse</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.email.1">
+        <source>Bitte geben Sie eine E-Mailadresse ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.adress.0">
+        <source>Anrede</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.adress.1">
+        <source>Bitte geben Sie eine Anrede (Herr/Frau) ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.firstname.0">
+        <source>Vorname</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.firstname.1">
+        <source>Bitte geben Sie einen Vornamen ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.lastname.0">
+        <source>Nachname</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.lastname.1">
+        <source>Bitte geben Sie einen Nachnamen ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.author.0">
+        <source>Autor</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.author.1">
+        <source>Hier können Sie den Autor des Beitrags ändern.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.phone.0">
+        <source>Telefonnummer</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.phone.1">
+        <source>Bitte geben Sie eine Telefonnummer ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.date.0">
+        <source>Einstellungsdatum</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.date.1">
+        <source>Bitte geben Sie das Datum gemäß des globalen Datumsformats ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.function.0">
+        <source>Abteilung</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.function.1">
+        <source>Bitte geben Sie die Abteilung des Mitarbeiters an.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.description.0">
+        <source>Aufgabenbereich</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.description.1">
+        <source>Bitte beschreiben Sie die Tätigkeit des Mitarbeiters.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.addImage.0">
+        <source>Ein Bild hinzufügen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.addImage.1">
+        <source>Ein Bild des Mitarbeiters hinzufügen.</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.tstamp.0">
+        <source>Änderungsdatum</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.tstamp.1">
+        <source>Datum und Uhrzeit der letzten Änderung</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.title_legend">
+        <source>Mitarbeiter-ID und Autor</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.date_legend">
+        <source>Mitarbeiter seit...</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.details_legend">
+        <source>Kontaktinformationen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.job_legend">
+        <source>Funktion im Unternehmen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.image_legend">
+        <source>Bild-Einstellungen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.new.0">
+        <source>Neuer Beitrag</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.new.1">
+        <source>Einen neuen Beitrag erstellen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.show.0">
+        <source>Beitragsdetails</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.show.1">
+        <source>Die Details des Beitrags ID %s anzeigen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.edit.0">
+        <source>Beitrag bearbeiten</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.edit.1">
+        <source>Beitrag ID %s bearbeiten</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.copy.0">
+        <source>Beitrag duplizieren</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.copy.1">
+        <source>Beitrag ID %s duplizieren</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.cut.0">
+        <source>Beitrag verschieben</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.cut.1">
+        <source>Beitrag ID %s verschieben</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.delete.0">
+        <source>Beitrag löschen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.delete.1">
+        <source>Beitrag ID %s löschen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.toggle.0">
+        <source>Beitrag veröffentlichen/unveröffentlichen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.toggle.1">
+        <source>Beitrag ID %s veröffentlichen/unveröffentlichen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.feature.0">
+        <source>Beitrag hervorheben/zurücksetzen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.feature.1">
+        <source>Beitrag ID %s hervorheben/zurücksetzen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.editheader.0">
+        <source>Archiv bearbeiten</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.editheader.1">
+        <source>Nachrichtenarchiv-Einstellungen bearbeiten</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.editmeta.0">
+        <source>Beitragseinstellungen bearbeiten</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.editmeta.1">
+        <source>Die Beitragseinstellungen bearbeiten</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.pasteafter.0">
+        <source>In dieses Nachrichtenarchiv einfügen</source>
+      </trans-unit>
+      <trans-unit id="tl_employee.pasteafter.1">
+        <source>Nach dem Beitrag ID %s einfügen</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
